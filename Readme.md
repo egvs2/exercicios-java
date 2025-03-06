@@ -7,5 +7,7 @@ Este repositório contém exercícios e projetos desenvolvidos na disciplina de 
 Os execícios abordam os seguintes conceitos.
 
 ✅ Classe e Objetos
+
 ✅ Encapsulamento
+
 ✅ Herança e Polimorfismo 
